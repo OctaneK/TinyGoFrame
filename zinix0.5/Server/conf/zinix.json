@@ -1,0 +1,8 @@
+{
+    "Host": "127.0.0.1",
+	"TcpPort":8888,
+	"Name":"ServerJson",
+    "Version": "tcp4",
+	"MaxConn":1000, 
+	"MaxPackageSize":512 
+}

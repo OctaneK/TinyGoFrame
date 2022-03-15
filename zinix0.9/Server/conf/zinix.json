@@ -1,0 +1,9 @@
+{
+    "Host": "127.0.0.1",
+	"TcpPort":8888,
+	"Name":"ServerDemo",
+    "Version": "tcp4",
+	"MaxConn":1, 
+	"MaxPackageSize":512 ,
+	"WorkerPoolSize":10
+}
